@@ -2,11 +2,11 @@
     font-family: "Poppins", sans-serif !important;
 }
 .PaymentCss{
-    margin-top: 30px;
+    margin-top: 15px;
    /*  margin-bottom: 20px; */
    color: #495773;
    text-transform: uppercase;
-   letter-spacing: 0.5rem;
+   letter-spacing: 0.3rem;
 }
 .Deatil{
     color: #495773;
@@ -17,17 +17,17 @@
 .cardColorChange{
     color: black;
     padding-left: 0rem;
-    padding-right: 10rem;
+    padding-right: 6rem;
    
     
 }
 
 .Companydetail{
     color: #495773; 
-    margin-top: 6rem; 
+    margin-top: 3rem; 
     text-decoration: underline ;
     text-transform: uppercase;
-    letter-spacing: 0.5rem;
+    letter-spacing: 0.3rem;
 }
 .Five{
     margin-left: 18.8rem;
@@ -60,4 +60,8 @@
 }
 body{
     background-color: black;
+}
+
+.abc{
+    color: #495773;
 }
