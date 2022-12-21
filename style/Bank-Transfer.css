@@ -1,0 +1,63 @@
+.h1, .h2, .h3, .h4, body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Poppins", sans-serif !important;
+}
+.PaymentCss{
+    margin-top: 30px;
+   /*  margin-bottom: 20px; */
+   color: #495773;
+   text-transform: uppercase;
+   letter-spacing: 0.5rem;
+}
+.Deatil{
+    color: #495773;
+    text-transform: uppercase;
+
+}
+
+.cardColorChange{
+    color: black;
+    padding-left: 0rem;
+    padding-right: 10rem;
+   
+    
+}
+
+.Companydetail{
+    color: #495773; 
+    margin-top: 6rem; 
+    text-decoration: underline ;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+}
+.Five{
+    margin-left: 18.8rem;
+    font-weight: 2rem;
+    
+ 
+    display: flex;
+}
+.Side{
+    margin-left: 10.5rem;}
+.Sideone{
+    margin-left: 12.6rem;
+}
+.Sidetwo{
+    margin-left: 11.3rem;
+}
+.Sidethree{
+    margin-left: 10.5rem;
+}
+.SideFour{
+    margin-left: 13rem;
+}
+.colColor{
+    color: #88949f;
+    margin-left: -13px;
+}
+.Meezan{
+    margin-top:-25px ;
+    margin-left: -13px;
+}
+body{
+    background-color: black;
+}
