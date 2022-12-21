@@ -22,16 +22,14 @@
 }
 .Companydetail{
     color: #495773; 
-    margin-top: 10rem; 
+    margin-top: 5rem; 
     text-decoration: underline ;
     text-transform: uppercase;
     letter-spacing: 0.5rem;
 }
 .Five{
-    margin-left: 18.8rem;
+   
     font-weight: 2rem;
-    
- 
     display: flex;
 }
 .Side{
