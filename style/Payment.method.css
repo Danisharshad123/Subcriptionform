@@ -2,11 +2,11 @@
     font-family: "Poppins", sans-serif !important;
 }
 .PaymentCss{
-    margin-top: 30px;
+    margin-top: 20px;
    /*  margin-bottom: 20px; */
    color: #495773;
    text-transform: uppercase;
-   letter-spacing: 0.5rem;
+   letter-spacing: 0.2rem;
 }
 .cardColorChange{
     color: black;
@@ -22,10 +22,10 @@
 }
 .Companydetail{
     color: #495773; 
-    margin-top: 5rem; 
+    margin-top: 3rem; 
     text-decoration: underline ;
     text-transform: uppercase;
-    letter-spacing: 0.5rem;
+    letter-spacing: 0.3rem;
 }
 .Five{
    
@@ -46,3 +46,4 @@
 .SideFour{
     margin-left: 13rem;
 }
+
